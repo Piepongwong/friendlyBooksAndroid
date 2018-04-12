@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FriendlyBooks</string>
+    <string name="loginButton">Login</string>
+    <string name="emailUserLogin">Email or username</string>
+    <string name="password">password</string>
+    <string name="createAccount">Create Account</string>
+    <string name="username">Username</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="signup">Sign up</string>
+    <string name="userData">userData</string>
+    <string name="signupUrl">https://simplelogin.tech-savvy.tech/user/create</string>
+    <string name="loginUrl">https://simplelogin.tech-savvy.tech/login</string>
+
+    <string name="googleBooksApi">https://www.googleapis.com/books/v1/volumes?q=isbn:</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="title_activity_scan_barcode">ScanBarcode</string>
+    <string name="books">books</string>
+
+    <string name="scanBarcode">Scan barcode</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="thumbnailFolder">images</string>
+
+    <string name="dialogDoubleEntry">There is already a book with this barcode. Is this an extra copy?</string>
+    <string name="yesDialog">Yes(create double entry)</string>
+    <string name="noDialog">No (cancel)</string>
+
+    <string name="loginFailed">Login failed. Check credentials.</string>
+
+</resources>
